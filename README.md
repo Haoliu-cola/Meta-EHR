@@ -1,6 +1,6 @@
 # MetaEHR
 
-This is the source code for MetaEHR, which is a Python package for few-shot clinical prediction problems, including time-associated prediction targets and time-independent prediction targets.
+This is the source code for MetaEHR, which is a Python package for few-shot clinical prediction problems, including time-associated prediction targets and time-independent prediction targets. Code will be uploaded soon.
 
 The time-associated algorithm is the implementation of our work **TAML**: **T**ime-**a**ssociated **M**eta **L**earning for Clinical Prediction. The time-independent algorithm can be any of following meta learning algorithm: MAML, ProtoNet.
 
